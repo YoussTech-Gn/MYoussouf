@@ -27,21 +27,4 @@ I am proficient and continuously work with the following technologies:
 
 | 🎁 Project | ⭐ Stars | 📚 Forks | 🛎️ Issues | 📬 Pull requests |
 | :--- | :---: | :---: | :---: | :---: |
-| [**Your First Project Name Here**](your_first_project_link) | <img alt="Stars" src="https://img.shields.io/github/stars/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> |
-| [**Your Second Project Name Here**](your_second_project_link) | <img alt="Stars" src="https://img.shields.io/github/stars/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> |
-
-> **Note:** Remember to replace all placeholder text (like `Your_Username`, `Your_First_Project_Name`, etc.) with your actual information and links.
-
----
-
-## 💬 Connect With Me
-
-I enjoy connecting and discussing technical ideas! You can find me on the following platforms:
-
-<p>
-<a href="Your_GitHub_Link" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="Your_Twitter_Link" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="Your_LinkedIn_Link" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="Your_Blog_Link" target="_blank"><img alt="Medium/Personal Blog" src="https://img.shields.io/badge/Blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
-</p>
 
